@@ -60,3 +60,4 @@ Add your name and website here!
 - [Julen Rodriguez Eraso](https://juleneraso.github.io)
 - [Yael Eskenazi](https://yaeleskenazi.github.io/)
 - [Azucena Álvarez](https://azucenaal.github.io/)
+- [Joan Arxer](https://arxer10.github.io/)
